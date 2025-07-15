@@ -1,0 +1,2 @@
+python-cli-menu==1.8.1
+wcwidth==0.2.13
